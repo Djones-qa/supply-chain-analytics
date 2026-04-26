@@ -1,6 +1,6 @@
 # Supply Chain Analytics
 
-![CI](https://github.com/Djones-qa/supply-chain-analytics/actions/workflows/supply-chain-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/supply-chain-analytics/actions/workflows/supply-chain-tests.yml/badge.svg?branch=my-feature-branch)
 
 Comprehensive supply chain analytics framework using Python, Pandas, Scikit-learn, Matplotlib, and SQLite. Covers inventory optimization with EOQ and safety stock calculations, ABC classification, stockout and overstock detection, demand forecasting, supplier performance analysis, and SQL supply chain queries.
 
