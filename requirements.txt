@@ -1,0 +1,9 @@
+﻿pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.3
+seaborn==0.13.2
+scikit-learn==1.4.1
+faker==24.0.0
+pytest==8.1.1
+pytest-html==4.1.1
+sqlalchemy==2.0.28
